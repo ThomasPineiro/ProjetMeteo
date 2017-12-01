@@ -1,0 +1,41 @@
+/*police ubuntu*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body {
+	font-family: 'Ubuntu', sans-serif;
+	color: rgb(206,0,51);
+	background-color: white;
+	margin: 0;
+}
+
+/*style du titre*/
+h1 {
+	text-align: center;
+}
+
+/*style formulaire*/
+#formulaire {
+	padding-top: 5%;
+}
+
+form {
+	width: 200px;
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ann {
+	margin-left: 20px;
+}
+
+#val {
+	margin-left: 10px;
+}
+
+/*style bouton*/
+.bouton {
+	background-color: rgb(206,0,51);
+	color: white;
+}
+
