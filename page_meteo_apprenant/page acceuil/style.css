@@ -1,0 +1,62 @@
+/*style.css*/
+
+/*couleur de fond de la page*/	
+html{   /*background: linear-gradient(rgb(192, 0, 48) 0%,rgb(206,0, 52) 30%,rgb(252, 252,252) 70%);
+		height: 130%;*/
+		background-color:rgb(206,0, 52); 
+		
+	}
+
+/*_________________________________________________________________________________________________________________________________________________________*/	
+/* center est la position du formulaire*/
+
+.center{  
+			position: absolute; 
+  			top: 50%; 
+  			left: 50%;
+  			height: 100%;
+  			transform: translate(-50%, -50%);
+			white-space: nowrap;
+			padding-top: 25%;
+			text-align: center;
+			background-color: white;
+			padding-right: 25%;
+			padding-left: 25%;
+			 } 
+/*_________________________________________________________________________________________________________________________________________________________*/	
+
+/*_________________________________________________________________________________________________________________________________________________________*/	
+
+/* les inputs de la connexion*/
+input[type=email] { height:30px; 
+					width:300px;}
+
+input[type=password] { height:30px; 
+					width:300px;}
+
+
+input[type=button] { 	background-color: #757abf;
+						border-bottom: 5px solid #eab0d1;}  
+
+/*_________________________________________________________________________________________________________________________________________________________*/	
+
+/*form{
+	box-shadow: 6px 6px 6px black;
+	  border-radius: 5px 5px 5px 5px;
+	  padding-top: 20%;
+	  padding-bottom: 20%;
+	  padding-left: 20%;
+	  padding-right:20%;
+	  white-space: nowrap; 
+	  overflow:hidden}*/
+ 
+.btnconnexion{top: 10px;}
+
+
+				
+table, td{  padding-right: 25%;
+			padding-left: 25%;}
+
+a{color: #eab0d1;}
+
+.centerlowblague{margin-bottom: 25%;} 

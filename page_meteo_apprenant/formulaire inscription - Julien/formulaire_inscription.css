@@ -1,0 +1,15 @@
+/* style générale de la page - Julien Chénel*/
+
+html {
+font-family: 'Ubuntu', sans-serif;
+text-align: center;
+background: #01717d;
+color: white;
+}
+
+/* taille des champs */
+
+input {
+display: inline-block;
+width: 250px;
+}
